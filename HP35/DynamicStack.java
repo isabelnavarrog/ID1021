@@ -35,9 +35,9 @@ public class DynamicStack {
     }
 }
 
-/*
+
 //FIXED SIZE INCREMENT
-public class DynamicStack {
+public class DynamicStackFixedSize {
     private int[] set;
     private int sp;
     private int ip;
